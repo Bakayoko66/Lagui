@@ -1,0 +1,147 @@
+.contaire
+{
+   text-align: center; 
+   font-weight: bold;
+   flex-direction: column;
+   height: auto;
+}
+.bon
+{
+background-color: brown;
+color: black;
+width: 400px;
+height: auto;
+padding: 100px;
+margin-top: auto;
+margin-left: auto;
+margin-right: 25%;
+font-weight: bold;
+text-decoration: none;
+}
+
+.x
+{
+    margin-top: 0px;
+    margin-left: 1050px;
+    height: auto;
+    margin-left: 390px;
+} 
+.ab
+{
+    background-color: rgb(87, 87, 141);
+    color: black;
+    width: 400px;
+    height: auto;
+    padding: 100px;
+    margin-top: auto;
+     margin-left: auto;
+     margin-right: 25%;
+     font-weight: bold;
+     text-decoration: none;
+    }
+    .ac
+    {
+        background-color:rgb(42, 209, 42);
+        color: black;
+        width: 400px;
+        height: auto;
+        padding: 100px;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: 25%;
+        font-weight: bold;
+        text-decoration: none;
+        }
+        .ad
+        {
+            background-color: coral;
+            color: black;
+            width: 400px;
+            height: auto;
+            padding: 100px;
+            margin-top: auto;
+            margin-left: auto;
+            margin-right: 25%;
+            font-weight: bold;
+            text-decoration: none;
+            }
+            .ae
+            {
+                background-color: rgb(231, 45, 231);
+                color: black;
+                width: 400px;
+                height: auto;
+                padding: 100px;
+                margin-top: auto;
+                margin-left: auto;
+                margin-right: 25%;
+                font-weight: bold;
+                text-decoration: none;
+                }
+                @media screen and (max-width:800px)
+                {
+                .ab
+                {
+                    display: flex;
+                    flex-direction: column;
+                    height: auto;
+                    width: auto;
+
+                }
+                
+                .ac
+                {
+                    display: flex;
+                    flex-direction: column;
+                    height: auto;
+                    width: auto;
+                }
+                
+                .ad
+                {
+                    display: flex;
+                    flex-direction: column;
+                    height: auto;
+                    width: auto;
+                
+                }
+                .ae
+                {
+                    display: flex;
+                    flex-direction: column;
+                    height: auto;
+                    width: auto;
+                }
+                .bon
+                {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-around;
+                    height: auto;
+                    width: auto;
+                }
+
+            }
+            .ton
+            {
+               background-image: url(let.jpg);
+            }
+            .rouge
+            {
+            color: red;
+            }
+            .jaune
+            {
+            color: yellow;
+            }
+            .vert
+            {
+            color: green;
+            }
+            .sow
+            {
+            color:blue;
+            }
+
+
+

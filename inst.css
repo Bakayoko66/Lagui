@@ -1,0 +1,19 @@
+.x
+{
+    margin-top: 0px;
+    margin-left: 260px;
+    height: auto;
+}
+
+@media screen and (max-width:800px)
+
+ {
+    .X
+    {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: auto;
+    
+    }
+}

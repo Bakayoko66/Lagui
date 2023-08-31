@@ -1,0 +1,130 @@
+
+.contaire
+{
+   text-align: center; 
+   font-weight: bold;
+   flex-direction: column;
+   height: auto;
+}
+.x
+{
+    margin-top: 0px;
+    margin-left: 1050px;
+    height: auto;
+    margin-left: 390px;
+}
+    .ac
+    {
+        background-color:rgb(42, 209, 42);
+        color: black;
+        width: 400px;
+        height: auto;
+        padding: 100px;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: 25%;
+        font-weight: bold;
+        text-decoration: none;
+        }
+        .ad
+        {
+            background-color: coral;
+            color: black;
+            width: 400px;
+            height: auto;
+            padding: 100px;
+            margin-top: auto;
+            margin-left: auto;
+            margin-right: 25%;
+            font-weight: bold;
+            text-decoration: none;
+            }
+            .ae
+            {
+                background-color: rgb(231, 45, 231);
+                color: black;
+                width: 400px;
+                height: auto;
+                padding: 100px;
+                margin-top: auto;
+                margin-left: auto;
+                margin-right: 25%;
+                font-weight: bold;
+                text-decoration: none;
+                }
+                .af
+                {
+                    background-color: rgb(125, 209, 41);
+                    color: black;
+                    width: 400px;
+                    height: auto;
+                    padding: 100px;
+                    margin-top: auto;
+                    margin-left: auto;
+                    margin-right:25%;
+                    font-weight: bold;
+                    text-decoration: none;
+                    }
+                    
+                    @media screen and (max-width:800px)
+                    {
+                    .ac
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    }
+                    
+                    .ad
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    
+                    }
+                    .ae
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    }
+                    
+                    .af
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        font-weight: bold;
+                        height: auto;
+                        width: auto;
+                    }                                        }
+                     
+                     .ju
+                     {
+                        background-image: url(jus.jpg);
+                     }
+                     .rouge
+                     {
+                     color: red;
+                     }
+                     .jaune
+                     {
+                     color: yellow;
+                     }
+                     .vert
+                     {
+                     color: green;
+                     }
+                     .sow
+                     {
+                     color:blue;
+                     }
+   
+   
+
+ 
+
+
+                    

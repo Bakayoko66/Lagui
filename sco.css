@@ -1,0 +1,28 @@
+.rouge
+{
+color: red;
+}
+.jaune
+{
+color: yellow;
+}
+.vert
+{
+color: green;
+}
+.sow
+{
+color:blue;
+}
+.x
+{
+    margin-top: 0px;
+    margin-left: 1050px;
+    height: auto;
+    margin-left: 390px;
+}
+#barre
+{
+   width: 100%;
+   background: #E0E5EF;
+}

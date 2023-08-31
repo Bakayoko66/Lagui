@@ -1,0 +1,188 @@
+
+.contaire
+{
+   text-align: center; 
+   font-weight: bold;
+   flex-direction: column;
+   height: auto;
+}
+.bon
+{
+background-color: brown;
+color: black;
+width: 400px;
+height: auto;
+padding: 100px;
+margin-top: auto;
+margin-left: auto;
+margin-right: 25%;
+font-weight: bold;
+text-decoration: none;
+}
+.ab
+{
+    background-color: rgb(87, 87, 141);
+    color: black;
+    width: 400px;
+    height: auto;
+    padding: 100px;
+    margin-top: auto;
+     margin-left: auto;
+     margin-right: 25%;
+     font-weight: bold;
+     text-decoration: none;
+    }
+    .ac
+    {
+        background-color:rgb(42, 209, 42);
+        color: black;
+        width: 400px;
+        height: auto;
+        padding: 100px;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: 25%;
+        font-weight: bold;
+        text-decoration: none;
+        }
+        .ad
+        {
+            background-color: coral;
+            color: black;
+            width: 400px;
+            height: auto;
+            padding: 100px;
+            margin-top: auto;
+            margin-left: auto;
+            margin-right: 25%;
+            font-weight: bold;
+            text-decoration: none;
+            }
+            .ae
+            {
+                background-color: rgb(231, 45, 231);
+                color: black;
+                width: 400px;
+                height: auto;
+                padding: 100px;
+                margin-top: auto;
+                margin-left: auto;
+                margin-right: 25%;
+                font-weight: bold;
+                text-decoration: none;
+                }
+                .af
+                {
+                    background-color: rgb(125, 209, 41);
+                    color: black;
+                    width: 400px;
+                    height: auto;
+                    padding: 100px;
+                    margin-top: auto;
+                    margin-left: auto;
+                    margin-right:25%;
+                    font-weight: bold;
+                    text-decoration: none;
+                    }
+                    a
+                    {
+                        text-decoration: none;
+
+                    }
+                    .x
+                    {
+                        margin-top: 0px;
+                        margin-left: 1050px;
+                        height: auto;
+                    }
+                    @media screen and (max-width:800px)
+                    {
+                       .bon
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-around;
+                        height: auto;
+                        width: auto;
+                    }
+                    a
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    }
+                    .ab
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+
+                    }
+                    
+                    .X
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    
+                    }
+                    .ac
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    }
+                    
+                    .ad
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    
+                    }
+                    .ae
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    }
+                    
+                    .af
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        font-weight: bold;
+                        height: auto;
+                        width: auto;
+                    }
+                    .contaire
+                    {
+                        display: flex;
+                        flex-direction: column;
+                        height: auto;
+                        width: auto;
+                    }
+                                        }
+                    .sow
+                     {
+                        background-image: url(img.png);
+                     }
+                     .gest
+                     {
+                        background-image: url(eco.jpg);
+                     }
+                     .ju
+                     {
+                        background-image: url(jus.jpg);
+                     }
+
+ 
+
+
+                    
